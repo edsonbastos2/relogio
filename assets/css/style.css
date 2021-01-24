@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.relogio{
+    font-size: 3em;
+}
+
+.pausado{
+    color: red;
+}
